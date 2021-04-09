@@ -1,6 +1,17 @@
-    centred {
-        text-align: center;
-      }
-      #section2 ul li {
-        list-style-type: circle;
-      }
+centred {
+  text-align: center;
+}
+#section2 ul li {
+  list-style-type: circle;
+}
+.line {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  position: sticky;
+  top: 0;
+  align-self: center;
+  /* background-color: blue; */
+}
